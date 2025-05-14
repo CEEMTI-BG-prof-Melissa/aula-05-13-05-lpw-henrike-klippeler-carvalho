@@ -1,24 +1,15 @@
 <html>
     <body>
-        <h1> Formulario com metodo GET </h1>
+        <h1> Formulario com metodo GET </h1> <br>
         <form>
-        <p>
-        Login: <input type="text">
-        </p>
-        <p>
-        Senha: <input type="password">
-        </p>
-        <button type="submit">Entrar</button>
+        Login: <input type="text"> <br>
+        Senha: <input type="password"> <br> 
+        <button type="submit">Entrar</button> <br>
         </form>
-           
-        <h1> Formulario com metodo POST </h1> 
+        <h1> Formulario com metodo POST </h1> <br>
         <form>  
-        <p>
-        Login: <input type="text">
-        </p>
-        <p>
-        Senha: <input type="password">
-        </p>
+        Login: <input type="text"> <br>
+        Senha: <input type="password"> <br>
         <button type="submit">Entrar</button>
         </form>
     </body>
